@@ -1,0 +1,1 @@
+The complete Expo source bundle is available in the conversation attachment: newtown-runners-birthday-tracker-expo.zip. Extract it at the repository root, then follow README.md and docs/SETUP.md.
